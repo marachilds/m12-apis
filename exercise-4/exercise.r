@@ -7,7 +7,7 @@ library(httr)
 
 
 # Make a variable called movie that has the name of your favorite movie
-
+movie <- "Kingsman"
 
 # Make a variable called "query.parameters" that holds a list of the parameters
 # to pass to the API. View the OMDb documentation to see which parameters
